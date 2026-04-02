@@ -7,13 +7,16 @@ This project focuses on analyzing electricity data in India to understand trends
 The project involves data cleaning, exploratory data analysis (EDA), visualization, and predictive modeling using Linear Regression.
 
 🎯 Objectives
+
 Clean and preprocess raw electricity dataset
 Analyze trends in electricity generation over time
 Identify top contributing states and energy sources
 Visualize patterns using charts and graphs
 Build a predictive model using Linear Regression
 Evaluate model performance using MSE and R² score
+
 📊 Dataset
+
 Contains electricity-related data such as:
 Year
 State
@@ -21,6 +24,7 @@ Category (Generation, Capacity, Emissions)
 Variable (Energy sources)
 Value
 YoY Change and YoY % Change
+
 🧹 Data Preprocessing
 Removed duplicates
 Handled missing values
