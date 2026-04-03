@@ -60,8 +60,8 @@ Electricity value prediction
 
 📊 Model Performance
 
-R² Score: 0.79
-Mean Squared Error (MSE): 388399
+MSE: 24354274769.126453
+R²: 0.962926070352964
 
 👉 The model shows good predictive performance and explains ~80% of variance in the data.
 
